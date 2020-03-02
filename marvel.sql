@@ -54,7 +54,7 @@ INSERT INTO movies (title, year, show_time) VALUES ('Black Panther', 2018, '21:0
 
 -- 1.  Return ALL the data in the 'movies' table.
 
-SELECT * FROM moive;
+SELECT * FROM moives;
 
 -- 2.  Return ONLY the name column from the 'people' table
 
